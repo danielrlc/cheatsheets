@@ -170,6 +170,8 @@ ys<text-obj><newchar> | Surround text-object with <newchar>
 yss<li>               | Surround line with <li>
 cst<li>               | Change surrounding tag to <li>
 dst                   | Delete surround tag (works on HTML tags)
+ys3w(                 | Surround three words with brackets (with space)
+ys3w)                 | Surround three words with brackets (without space)
 
 
 
